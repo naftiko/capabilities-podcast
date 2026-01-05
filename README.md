@@ -1,2 +1,2 @@
-# capabilities-podcast
-This is the repository for the Naftiko Capabilities podcast.
+# Contracts
+All of the API Evangelist platform contracts.
