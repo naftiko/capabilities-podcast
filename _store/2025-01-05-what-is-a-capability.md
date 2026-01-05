@@ -6,14 +6,13 @@ date: 2026-01-05T00:00:00.000Z
 summary: >-
   Asking Mike Amundsen and Christian Posta what a capability is.
 audio_file: >-
-  https://kinlane-productions2.s3.amazonaws.com/api-evangelist-conversations/api-evangelist-conversations-episode-1.wav
-audio_length: 63100000
-sound_cloud: https://soundcloud.com/kinlane/api-evangelist-conversation-with-kin-lane
-duration: '0:11:56'
-publish_date: '2024-08-27 15:00:00'
-url: https://conversations.apievangelist.com/sessions/2024-08-23-session-one.html
+  https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-capabilities-2025-01-06.wav
+audio_length: 201889844
+duration: '0:19:05'
+publish_date: '2026-01-06 09:00:00'
 tags:
-  - Technology
-  - APIs
-slug: 2024-08-23-session-one
+  - Capabilities
+  - Hypermedia
+  - Semantics
+  - Artificial Intelligence
 ---

@@ -7,9 +7,9 @@ baseurl: ""
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title/
 
-url: "https://conversations.apievangelist.com"
+url: "https://naftiko.github.io/capabilities-podcast/"
 
-logo: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-logos/api-evangelist-logo-butterfly.png
+logo: https://kinlane-productions2.s3.amazonaws.com/naftiko-capabilities-podcast/
 
 navbar:
     sticky:         true
@@ -17,45 +17,21 @@ navbar:
   
 author:
     name:           Kin Lane
-    title:          API Evangelist
+    title:          Naftiko
     avatar:         https://kinlane-productions2.s3.amazonaws.com/kin-lane/kin-lane-cartoon-questioning.png
 
 authors:
     kin:
       name:         Kin Lane
       title:        API Evangelist
-      avatar:       https://kinlane-productions2.s3.amazonaws.com/kin-lane/kin-lane-cartoon-questioning.png
+      avatar:       https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue.png
       email:       'kinlane@postman.com'
       affiliation: 'API Evangelist'
       github:      'kinlane'
-      linkedin:    'in/kinlane'       
+      linkedin:    'in/kinlane'        
 
-social:
-    email:
-    website:
-    facebook:       
-    flickr:
-    dribbble:
-    github:         https://github.com/api-evangelist
-    googleplus:
-    instagram:     
-    linkedin:       https://www.linkedin.com/in/kinlane/
-    pinterest:
-    twitter:        
-    vimeo:          
-    youtube:        https://www.youtube.com/c/KinLane
-    mastodon:       
-
-# Share button
-share:
-    post:           true # Display share buttons on a post page
-    doc:            true # Display share buttons on a doc page
-    twitter:        username # Enable by adding Twitter handle 
-    facebook:       true # Enable by setting true (Facebook handle not required)
-
-# Default footer image settings
 footer:
-    copyright:      API Evangelist
+    copyright:      Naftiko
 
 # Path to post content assets directory i.e post images, pdfs etc
 uploads:            /uploads/
