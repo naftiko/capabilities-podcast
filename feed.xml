@@ -18,7 +18,7 @@ layout: null
       <title>{{ site.title }}</title>
       <link>{{ site.url }}</link>
     </image>
-    <itunes:image href="https://kinlane-productions2.s3.amazonaws.com/api-evangelist-logos/api-evangelist-butterfly-vertical.png" />
+    <itunes:image href="{{ site.logo }}" />
     <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
     <itunes:author>{{ site.author.name }}</itunes:author>
     <itunes:summary><![CDATA[{{ site.description | xml_escape }}]]></itunes:summary>
