@@ -9,7 +9,7 @@ permalink: /:categories/:year/:month/:day/:title/
 
 url: "https://naftiko.github.io/capabilities-podcast/"
 
-logo: https://kinlane-productions2.s3.amazonaws.com/naftiko-capabilities-podcast/
+logo: https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue.png
 
 navbar:
     sticky:         true
