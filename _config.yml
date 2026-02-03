@@ -9,7 +9,7 @@ permalink: /:categories/:year/:month/:day/:title/
 
 url: "https://naftiko.github.io/capabilities-podcast/"
 
-logo: https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue.png
+logo: https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue-icon.png
 
 navbar:
     sticky:         true
@@ -24,11 +24,11 @@ authors:
     kin:
       name:         Kin Lane
       title:        API Evangelist
-      avatar:       https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue.png
-      email:       'kinlane@postman.com'
-      affiliation: 'API Evangelist'
-      github:      'kinlane'
-      linkedin:    'in/kinlane'        
+      avatar:       https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-logo-blue-icon.png
+      email:       'kinlane@naftiko.io'
+      affiliation: 'Naftiko'
+      github:      'naftiko'
+      linkedin:    'in/naftiko'        
 
 footer:
     copyright:      Naftiko
