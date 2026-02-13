@@ -6,7 +6,7 @@ date: 2026-02-11T00:00:00.000Z
 summary: >-
   Making our way through the AI Hype
 audio_file: >-
-  https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-capabilities-2026-02-05.wav
+  https://kinlane-productions2.s3.us-east-1.amazonaws.com/naftiko-capabilities-podcast/naftiko-capabilities-2026-02-11.wav
 audio_length: 16905910004
 duration: '0:16:01'
 publish_date: '2026-02-11T00:00:00.000Z'
