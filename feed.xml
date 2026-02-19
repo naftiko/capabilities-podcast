@@ -31,6 +31,7 @@ layout: null
     <itunes:keywords></itunes:keywords>
     <itunes:category text="Technology">
     </itunes:category>
+    
     <media:credit role="author">{{ site.author.name }}</media:credit>
     <media:description type="html"><![CDATA[{{ site.description | xml_escape }}]]></media:description>
     {% assign sessions = site.store | sort: "publish_date" | reverse | limit: 250 %}
