@@ -1,5 +1,5 @@
 ---
-title: Naftiko Capabilities Podcast for 24th, 2026 - API Products, API Design, and Spec-Driven Development
+title: Naftiko Capabilities Podcast for February 24th, 2026 - API Products, API Design, and Spec-Driven Development
 description: >-
   I sat down with Emmanuel Paraskakis to talk about the intersection of API products, API design-first, and spec-driven development. I think it is important that we revisit how we got here and Emmanuel had a front-row seat for the emergence of API design-first as part of his work on Apiary and API Blueprint, and markdown format used to define and mock your APIs before you development them. Emmanuel shared insight about how we can use product requirement definitions and problem statements to help align out engineer with product specs, bringing the much needed business alignment required to move in the direction enterprises are needing to go in 2026.
 date: 2026-02-24T00:00:00.000Z

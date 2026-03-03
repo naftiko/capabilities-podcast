@@ -1,5 +1,5 @@
 ---
-title: Naftiko Capabilities Podcast for 11th, 2026 - Making Sense of AI
+title: Naftiko Capabilities Podcast for February 11th, 2026 - Making Sense of AI
 description: >-
   In this episode of Naftiko Capabilities podcast we dive deep into the complex landscape of artificial intelligence. Through conversations with experts like Simon Wardley, Kevin Swiber, and Mike Amundsen, we explore the broad impacts of AI, from geopolitical considerations to practical technology applications. Learn about 'vibe coding,' large language models, and the balance between hype and realistic expectations in AI development. Ideal for tech enthusiasts, industry professionals, and anyone looking to stay informed about AI's evolving role in society.
 date: 2026-02-11T00:00:00.000Z
